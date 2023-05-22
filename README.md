@@ -1,3 +1,10 @@
+
+The repository has been moved to https://github.com/bluekitsunebi/kitsunebi.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
