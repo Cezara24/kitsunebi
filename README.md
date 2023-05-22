@@ -1,7 +1,5 @@
 
-The repository has been moved to https://github.com/bluekitsunebi/kitsunebi.
-
-
+# The repository has been moved to https://github.com/bluekitsunebi/kitsunebi.
 
 
 
